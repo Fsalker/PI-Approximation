@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1526771986 source:c:\users\andrei\documents\codeblocks projects\pi approximation\main.cpp
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"point.h"
+	"square.h"
+	"circle.h"
+
+1526769602 c:\users\andrei\documents\codeblocks projects\pi approximation\point.h
+	<iostream>
+
+1526769044 c:\users\andrei\documents\codeblocks projects\pi approximation\square.h
+	"Point.h"
+
+1526769044 c:\users\andrei\documents\codeblocks projects\pi approximation\circle.h
+	"Point.h"
+
